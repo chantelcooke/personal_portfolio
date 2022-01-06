@@ -13,6 +13,9 @@ const Navbar = ({}) => {
             <li>About</li>
           </Link>
           <br/>
+          <Link to='/contact'>
+            <li>Contact</li>
+          </Link>
         </ul>
       </nav>
     </>
